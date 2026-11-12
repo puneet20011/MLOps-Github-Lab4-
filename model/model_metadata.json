@@ -1,0 +1,22 @@
+{
+  "model_type": "RandomForestClassifier",
+  "dataset": "Palmer Penguins",
+  "classes": [
+    "Adelie",
+    "Chinstrap",
+    "Gentoo"
+  ],
+  "features": [
+    "bill_length_mm",
+    "bill_depth_mm",
+    "flipper_length_mm",
+    "body_mass_g",
+    "island",
+    "sex"
+  ],
+  "n_train": 266,
+  "n_test": 67,
+  "test_accuracy": 1.0,
+  "test_f1_macro": 1.0,
+  "trained_at": "2026-11-12T04:10:36+00:00"
+}
